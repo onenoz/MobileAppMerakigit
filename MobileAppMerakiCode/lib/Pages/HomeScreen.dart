@@ -6,7 +6,9 @@ import 'package:MobileaAppMerakiCode/Pages/Home/FuturedProductWidget.dart';
 import 'package:MobileaAppMerakiCode/Pages/Home/LastestProductWidget.dart';
 import 'package:MobileaAppMerakiCode/Components/DrawerWidget.dart';
 import 'package:MobileaAppMerakiCode/Models/ProductWidget.dart';
+import 'package:MobileaAppMerakiCode/Pages/Home/CarouselWidget.dart';
 import 'package:MobileaAppMerakiCode/Pages/Home/CategoryWidget.dart';
+import 'package:MobileaAppMerakiCode/Pages/Home/FuturedProductWidget.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {
