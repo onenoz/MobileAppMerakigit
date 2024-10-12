@@ -1,4 +1,4 @@
-package com.example.app_commmerce
+package com.new.package.MobileAppMerakiCode
 
 import io.flutter.embedding.android.FlutterActivity
 

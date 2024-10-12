@@ -1,9 +1,12 @@
-import 'package:app_commmerce/Components/DrawerWidget.dart';
-import 'package:app_commmerce/Models/ProductWidget.dart';
-import 'package:app_commmerce/Pages/Home/CarouselWidget.dart';
-import 'package:app_commmerce/Pages/Home/CategoryWidget.dart';
-import 'package:app_commmerce/Pages/Home/FuturedProductWidget.dart';
-import 'package:app_commmerce/Pages/Home/LastestProductWidget.dart';
+import 'package:MobileAppMerakiCode/Components/DrawerWidget.dart';
+import 'package:MobileAppMerakiCode/Models/ProductWidget.dart';
+import 'package:MobileAppMerakiCode/Pages/Home/CarouselWidget.dart';
+import 'package:MobileAppMerakiCode/Pages/Home/CategoryWidget.dart';
+import 'package:MobileAppMerakiCode/Pages/Home/FuturedProductWidget.dart';
+import 'package:MobileAppMerakiCode/Pages/Home/LastestProductWidget.dart';
+import 'package:MobileaAppMerakiCode/Components/DrawerWidget.dart';
+import 'package:MobileaAppMerakiCode/Models/ProductWidget.dart';
+import 'package:MobileaAppMerakiCode/Pages/Home/CategoryWidget.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {
