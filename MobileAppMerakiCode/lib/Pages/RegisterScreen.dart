@@ -1,4 +1,4 @@
-import 'package:MobileAppMerakiCode/Pages/SignInScreen.dart';
+import 'package:MobileaAppMerakiCode/Pages/SignInScreen.dart';
 import 'package:flutter/material.dart';
 
 class RegisterScreen extends StatefulWidget {

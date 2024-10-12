@@ -1,8 +1,8 @@
-import 'package:MobileAppMerakiCode/Pages/NewsScreen.dart';
+import 'package:MobileaAppMerakiCode/Pages/NewsScreen.dart';
 import 'package:flutter/material.dart';
-import 'package:MobileAppMerakiCode/Pages/HomeScreen.dart';
-import 'package:MobileAppMerakiCode/Pages/ProductScreen.dart';
-import 'package:MobileAppMerakiCode/Pages/ProfileScreen.dart';
+import 'package:MobileaAppMerakiCode/Pages/HomeScreen.dart';
+import 'package:MobileaAppMerakiCode/Pages/ProductScreen.dart';
+import 'package:MobileaAppMerakiCode/Pages/ProfileScreen.dart';
 
 class MainMenu extends StatefulWidget {
   final int index;

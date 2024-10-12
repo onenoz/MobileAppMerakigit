@@ -1,7 +1,7 @@
-import 'package:MobileAppMerakiCode/Components/DrawerWidget.dart';
-import 'package:MobileAppMerakiCode/Pages/ProductDetailScreen.dart';
+import 'package:MobileaAppMerakiCode/Components/DrawerWidget.dart';
+import 'package:MobileaAppMerakiCode/Pages/ProductDetailScreen.dart';
 import 'package:flutter/material.dart';
-import 'package:MobileAppMerakiCode/Models/ProductWidget.dart';
+import 'package:MobileaAppMerakiCode/Models/ProductWidget.dart';
 
 class ProductScreen extends StatefulWidget {
   ProductScreen();

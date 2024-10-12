@@ -1,4 +1,4 @@
-import 'package:MobileAppMerakiCode/Components/DrawerWidget.dart';
+import 'package:MobileaAppMerakiCode/Components/DrawerWidget.dart';
 import 'package:MobileaAppMerakiCode/Models/ProductWidget.dart';
 import 'package:flutter/material.dart';
 

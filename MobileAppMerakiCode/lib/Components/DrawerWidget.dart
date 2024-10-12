@@ -1,4 +1,4 @@
-import 'package:MobileAppMerakiCode/Pages/CheckOutScren.dart';
+import 'package:MobileaAppMerakiCode/Pages/CheckOutScren.dart';
 import 'package:flutter/material.dart';
 
 class DrawerWidget extends StatefulWidget {
